@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.cryptophotography.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\darpaler\\Desktop\\SIP\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Crypto-Photography [Testing]"
+        }
+      }
+    }
+  ]
+}
