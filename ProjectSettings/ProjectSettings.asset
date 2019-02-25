@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: 43a13f1f1c3292e42a9a88925a5a98d6
+  productGUID: af7afb37e25149d4ca7c62cef215cfbb
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -90,7 +90,7 @@ PlayerSettings:
   visibleInBackground: 1
   allowFullscreenSwitch: 1
   graphicsJobMode: 0
-  fullscreenMode: 1
+  fullscreenMode: 3
   xboxSpeechDB: 0
   xboxEnableHeadOrientation: 0
   xboxEnableGuest: 0
